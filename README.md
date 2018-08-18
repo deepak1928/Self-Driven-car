@@ -13,7 +13,7 @@ Car is having brain here.It can memorises the shortest possible path and this is
 Map file used to build an application framework on which we can see our project working.
 
 ## 2.ai.py
-AI file is for having giving our model brain to think and to store the previously learnt data. 
+AI file is for giving our model brain to think and to store the previously learnt data. 
 
 
 # Api needed
