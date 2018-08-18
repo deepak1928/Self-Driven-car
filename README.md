@@ -5,7 +5,7 @@ self driven car using artificial intelligence and deep learning
 A AI based model to train a model to reach its destination from source by taking shortest possible route and having its own senses to detect obstacle in between its path. This model also has capability to handle obstacle and find new fastest possible path.
 
 # Concept
-Car is having brain here.It can memorises the shortest possible path and this is done using artificial intelligence along with deep learning .Car can also use memorised data to future references.
+Car is having brain here.It can memorises the shortest possible path and this is done using artificial intelligence along with deep learning .Car can also use memorised data for future references.
 
 
 # Files used
